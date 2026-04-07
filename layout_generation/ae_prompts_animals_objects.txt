@@ -1,0 +1,144 @@
+a horse with a glasses::::{'horse': [50, 50, 200, 200], 'glasses': [180, 10, 230, 60]}
+a bear with a glasses::::{ 'bear': (80, 80, 176, 176),'glasses': (110, 120, 150, 160)}
+a monkey and a red car::::{'monkey-0': [10, 50, 100, 150], 'red car-0': [150, 100, 255, 200]}
+a elephant with a bow::::{'elephant': [50, 50, 200, 200], 'bow': [150, 100, 250, 150]}
+a frog and a purple balloon::::{'frog-0': [30, 30, 120, 150], 'purple balloon-0': [140, 60, 200, 150]}
+a mouse with a bow::::{'mouse': (100, 100, 156, 156),'bow': (130, 90, 150, 100)}
+a bird with a crown::::{'bird': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a turtle and a yellow bowl::::{'turtle-0': [30, 30, 120, 150], 'yellow bowl-0': [140, 30, 220, 120]}
+a rabbit and a gray chair::::{'rabbit-0': [20, 20, 100, 150], 'gray chair-0': [120, 30, 220, 180]}
+a dog and a black apple::::{'dog-0': [20, 20, 100, 180], 'black apple-0': [120, 30, 160, 70]}
+a rabbit and a white bench::::{'rabbit-0': [50, 100, 150, 180], 'white bench-0': [80, 200, 220, 250]}
+a lion and a yellow clock::::{'lion-0': [50, 50, 150, 200], 'yellow clock-0': [160, 50, 230, 120]}
+a turtle and a gray backpack::::{'turtle-0': [50, 50, 120, 150], 'gray backpack-0': [140, 70, 220, 180]}
+a elephant and a green balloon::::{'elephant': [20, 20, 120, 200], 'green balloon': [140, 50, 190, 110]}
+a monkey and a orange apple::::{'monkey-0': [30, 30, 150, 200], 'orange apple-0': [170, 50, 230, 120]}
+a lion and a red car::::{'lion': [50, 50, 200, 200], 'red car': [50, 200, 200, 350]}
+a lion with a crown::::{'lion': (80, 80, 176, 176),'crown': (110, 50, 150, 90)}
+a bird and a purple bench::::{'bird-0': [20, 20, 80, 80], 'purple bench-0': [120, 100, 236, 150]}
+a rabbit and a orange backpack::::{'rabbit': [50, 50, 100, 150], 'orange backpack': [150, 60, 240, 200]}
+a rabbit and a orange apple::::{'rabbit-0': [30, 30, 100, 150], 'orange apple-0': [150, 100, 200, 200]}
+a monkey and a green bowl::::{'monkey-0': [20, 20, 120, 200], 'green bowl-0': [140, 50, 220, 130]}
+a frog and a red suitcase::::{'frog-0': [50, 50, 150, 150], 'red suitcase-0': [160, 160, 240, 240]}
+a monkey and a green balloon::::{'monkey-0': [50, 50, 150, 200], 'green balloon-0': [180, 50, 230, 150]}
+a cat with a glasses::::{'cat': (100, 100, 156, 156),'glasses': (130, 120, 150, 140)}
+a bear and a blue clock::::{'bear-0': [50, 50, 150, 150], 'blue clock-0': [170, 50, 230, 110]}
+a cat and a gray bench::::{'cat-0': [30, 30, 100, 150], 'gray bench-0': [120, 50, 220, 100]}
+a bear with a crown::::{'bear': [10, 40, 150, 200], 'crown': [100, 150, 130, 170]}
+a lion with a bow::::{'lion-0': [50, 50, 200, 200], 'bow-0': [180, 180, 230, 230]}
+a bear and a red balloon::::{'bear-0': [30, 30, 200, 200], 'red balloon-0': [210, 50, 250, 100]}
+a bird and a black backpack::::{'bird-0': [50, 50, 150, 150], 'black backpack-0': [170, 50, 250, 150]}
+a horse and a pink balloon::::{'horse': (80, 80, 176, 176),'pink balloon': (140, 120, 160, 140)}
+a turtle and a yellow car::::{'turtle-0': [50, 50, 120, 100], 'yellow car-0': [150, 50, 230, 150]}
+a lion with a glasses::::{'lion-0': [50, 50, 200, 200], 'glasses-0': [175, 175, 225, 225]}
+a cat and a yellow balloon::::{'cat-0': [50, 50, 120, 180], 'yellow balloon-': [130, 70, 200, 140]}
+a horse and a yellow clock::::{'horse-0': [10, 10, 100, 200], 'yellow clock-0': [120, 30, 180, 90]}
+a dog with a glasses::::{'dog': (100, 100, 156, 156),'glasses': (120, 120, 160, 160)}
+a horse and a blue backpack::::{'horse-0': [20, 20, 120, 200], 'blue backpack-0': [136, 50, 200, 150]}
+a frog with a bow::::{'frog': (100, 100, 156, 156),'bow': (130, 110, 150, 130)}
+a elephant with a glasses::::{'elephant-0': [50, 50, 206, 206], 'glasses-0': [80, 80, 176, 176]}
+a mouse and a red bench::::{'mouse-0': [50, 50, 100, 100], 'red bench-0': [150, 150, 250, 200]}
+a bird and a brown balloon::::{'bird-0': [20, 20, 100, 100], 'brown balloon-0': [130, 130, 200, 200]}
+a monkey and a yellow backpack::::{'monkey-0': [20, 25, 120, 200], 'yellow backpack-0': [130, 30, 230, 205]}
+a turtle and a pink balloon::::{'turtle-0': [20, 20, 100, 120], 'pink balloon-0': [150, 150, 200, 200]}
+a cat and a red apple::::{'cat-0': [30, 30, 120, 200], 'red apple-0': [140, 40, 190, 90]}
+a monkey and a brown bench::::{'monkey-0': [50, 50, 150, 200], 'brown bench-0': [100, 100, 200, 150]}
+a rabbit with a glasses::::{'rabbit-0': [50, 50, 150, 150], 'glasses-0': [100, 100, 200, 200]}
+a bear and a gray bench::::{'bear': [30, 30, 120, 200], 'gray bench': [130, 40, 220, 70]}
+a turtle and a blue clock::::{'turtle-0': [50, 50, 150, 150], 'blue clock-0': [170, 50, 230, 110]}
+a monkey and a blue chair::::{'monkey-0': [30, 30, 120, 200], 'blue chair-0': [140, 40, 230, 180]}
+a turtle and a blue chair::::{'turtle': [20, 20, 100, 100], 'blue chair': [120, 120, 200, 200]}
+a dog with a bow::::{'dog': (100, 100, 156, 156),'bow': (120, 80, 160, 120)}
+a elephant and a black chair::::{'elephant-0': [50, 50, 200, 200], 'black chair-0': [100, 100, 150, 150]}
+a mouse and a purple chair::::{'mouse-0': [50, 50, 100, 150], 'purple chair-0': [60, 180, 200, 240]}
+a bear and a white car::::{'bear-0': [50, 50, 150, 150], ' white car-0': [100, 100, 200, 200]}
+a lion and a black backpack::::{'lion': [20, 20, 120, 200], 'black backpack': [140, 30, 210, 100]}
+a dog with a crown::::{'dog': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a horse and a green apple::::{'horse-0': [20, 30, 150, 200], 'green apple-0': [170, 50, 200, 80]}
+a dog and a gray clock::::{'dog-0': [30, 30, 120, 200], 'gray clock-0': [140, 50, 200, 150]}
+a dog and a purple car::::{'dog-0': [50, 75, 100, 150], 'purple car-0': [100, 50, 200, 150]}
+a dog and a gray bowl::::{'dog': [20, 20, 100, 150], 'gray bowl': [120, 100, 180, 160]}
+a monkey with a bow::::{'monkey': (100, 100, 156, 156),'bow': (130, 110, 150, 130)}
+a mouse and a blue clock::::{'mouse': [20, 20, 100, 100], 'blue clock': [120, 120, 200, 200]}
+a bird and a black bowl::::{'bird': [20, 20, 100, 100], 'black bowl': [120, 120, 200, 200]}
+a horse and a white car::::{'horse-0': [50, 50, 150, 200], 'white car-0': [180, 50, 250, 150]}
+a mouse and a pink apple::::{'mouse-0': [50, 50, 120, 120], 'pink apple-0': [140, 140, 180, 180]}
+a bear and a orange backpack::::{'bear-0': [50, 50, 150, 150], 'orange backpack-0': [160, 160, 220, 220]}
+a elephant and a yellow clock::::{'elephant': (80, 80, 176, 176),'clock': (140, 120, 160, 140)}
+a bird and a green chair::::{'bird': [50, 50, 150, 150], 'green chair': [60, 180, 210, 240]}
+a mouse and a black balloon::::{'mouse-0': [50, 50, 100, 100], 'black balloon-0': [150, 150, 200, 200]}
+a turtle and a white bench::::{'turtle-0': [50, 50, 150, 150], 'white bench-0': [100, 100, 200, 200]}
+a bird with a bow::::{'bird': (100, 100, 156, 156),'bow': (130, 110, 150, 130)}
+a turtle with a crown::::{'turtle': (100, 100, 156, 156),'crown': (120, 90, 160, 130)}
+a bird and a yellow car::::{'bird': [20, 30, 80, 100], 'yellow car': [130, 130, 220, 200]}
+a frog and a orange car::::{'frog': [20, 20, 100, 120], 'orange car': [150, 140, 230, 220]}
+a dog and a pink bench::::{'dog-0': [30, 30, 160, 200], 'pink bench-0': [60, 70, 190, 110]}
+a frog with a crown::::{'frog': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a frog and a green bowl::::{'frog-0': [50, 100, 75, 150], 'green bowl-0': [100, 110, 200, 220]}
+a frog and a pink bench::::{'frog-0': [50, 50, 120, 150], 'pink bench-0': [130, 50, 220, 100]}
+a horse with a bow::::{'horse-0': [50, 50, 200, 200], 'bow-0': [180, 10, 230, 60]}
+a bird and a yellow apple::::{'bird-0': [50, 40, 120, 100], 'yellow apple-0': [140, 140, 180, 180]}
+a monkey with a crown::::{'monkey': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a cat and a blue backpack::::{'cat-0': [50, 50, 150, 150], 'blue backpack-0': [100, 100, 200, 200]}
+a turtle and a pink apple::::{'turtle': (100, 100, 156, 156),'apple': (130, 120, 150, 140)}
+a dog and a orange chair::::{'dog-0': [50, 50, 150, 200], 'orange chair-0': [170, 50, 250, 200]}
+a horse and a green suitcase::::{'horse-0': [50, 50, 150, 200], 'green suitcase-0': [160, 50, 240, 200]}
+a elephant with a crown::::{'elephant': (80, 80, 176, 176),'crown': (120, 80, 160, 120)}
+a monkey and a orange suitcase::::{'monkey-0': [50, 50, 150, 200], 'orange suitcase-0': [170, 50, 250, 200]}
+a turtle and a orange suitcase::::{'turtle-0': [20, 20, 100, 100], 'orange suitcase-0': [150, 130, 230, 200]}
+a lion and a gray apple::::{'lion': [10, 40, 100, 200], 'gray apple': [150, 90, 240, 160]}
+a mouse with a crown::::{'mouse': [50, 50, 150, 150], 'crown': [100, 100, 200, 200]}
+a mouse with a glasses::::{'mouse': (100, 100, 156, 156),'glasses': (120, 120, 160, 160)}
+a horse and a brown bowl::::{'horse-0': [50, 50, 150, 200], 'brown bowl-0': [170, 50, 230, 100]}
+a monkey and a yellow clock::::{'monkey-0': [25, 30, 103, 208], 'yellow clock-0': [150, 50, 200, 100]}
+a turtle with a bow::::{'turtle-0': [50, 50, 175, 175], 'bow-0': [65, 95, 150, 120]}
+a dog and a brown backpack::::{'dog': [50, 50, 100, 150], 'brown backpack': [60, 160, 140, 220]}
+a cat and a purple bowl::::{'cat': (100, 100, 156, 156),'bowl': (130, 130, 150, 150)}
+a lion and a white bench::::{'lion-0': [20, 20, 120, 150], 'white bench-0': [130, 50, 230, 100]}
+a rabbit and a blue bowl::::{'rabbit': [20, 20, 100, 150], 'blue bowl': [120, 80, 180, 140]}
+a lion and a brown balloon::::{'lion-0': [20, 20, 120, 200], 'brown balloon-0': [140, 50, 200, 130]}
+a horse and a pink chair::::{'horse': [50, 50, 150, 200], 'pink chair': [60, 210, 180, 280]}
+a elephant and a green bench::::{'elephant-0': [50, 50, 200, 200], 'green bench-0': [100, 100, 200, 150]}
+a rabbit and a white balloon::::{'rabbit-0': [50, 50, 150, 150], 'white balloon-0': [180, 80, 230, 130]}
+a elephant and a pink backpack::::{'elephant-0': [50, 80, 180, 220], 'pink backpack-0': [200, 50, 240, 100]}
+a lion and a orange suitcase::::{'lion-0': [50, 50, 150, 150], 'orange suitcase-0': [170, 50, 250, 150]}
+a elephant and a orange apple::::{'elephant-0': [50, 50, 200, 200], 'orange apple-0': [100, 100, 150, 150]}
+a elephant and a green suitcase::::{'elephant': [20, 20, 120, 200], 'green suitcase': [140, 40, 220, 160]}
+a horse with a crown::::{'horse': (80, 80, 176, 176),'crown': (120, 80, 160, 120)}
+a bear with a bow::::{'bear': [50, 50, 200, 200], 'bow': [120, 120, 180, 180]}
+a rabbit and a yellow suitcase::::{'rabbit': [20, 20, 100, 150], 'yellow suitcase': [120, 30, 200, 130]}
+a horse and a blue bench::::{'horse-0': [20, 20, 120, 200], 'blue bench-0': [140, 40, 220, 190]}
+a dog and a green suitcase::::{'dog-0': [20, 20, 100, 180], 'green suitcase-0': [120, 40, 200, 160]}
+a mouse and a red car::::{'mouse-0': [20, 20, 70, 70], 'red car-0': [150, 150, 220, 220]}
+a cat and a black chair::::{'cat-0': [20, 20, 100, 180], 'black chair-0': [120, 30, 220, 190]}
+a bear and a red suitcase::::{'bear-0': [20, 20, 100, 150], 'red suitcase-0': [120, 30, 210, 120]}
+a rabbit and a gray clock::::{'rabbit-0': [20, 20, 100, 150], 'gray clock-0': [140, 120, 200, 200]}
+a bear and a pink apple::::{'bear-0': [50, 50, 150, 150], 'pink apple-0': [160, 160, 200, 200]}
+a lion and a white chair::::{'lion-0': [75, 75, 181, 181], ' white chair-0': [100, 200, 220, 250]}
+a rabbit with a crown::::{'rabbit': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a mouse and a purple bowl::::{'mouse-0': [50, 50, 100, 100], 'purple bowl-0': [150, 150, 200, 200]}
+a frog and a black apple::::{'frog-0': [100, 100, 150, 150], 'black apple-0': [170, 90, 230, 160]}
+a rabbit with a bow::::{'rabbit': (100, 100, 156, 156),'bow': (130, 110, 150, 130)}
+a mouse and a pink suitcase::::{'mouse-0': [20, 20, 50, 50], 'pink suitcase-0': [150, 150, 250, 250]}
+a lion and a pink bowl::::{'lion-0': [50, 50, 150, 150], 'pink bowl-0': [160, 160, 210, 210]}
+a frog and a black chair::::{'frog': [10, 10, 80, 80], 'black chair': [90, 90, 200, 200]}
+a frog and a green clock::::{'frog-0': [50, 50, 150, 150], 'green clock-0': [170, 50, 230, 110]}
+a bear and a white chair::::{'bear': (100, 100, 156, 156),'chair': (120, 130, 160, 150)}
+a elephant and a brown car::::{'elephant-0': [30, 30, 130, 200], 'brown car-0': [150, 50, 250, 150]}
+a turtle with a glasses::::{'turtle': (100, 100, 156, 156),'glasses': (130, 130, 150, 150)}
+a cat and a black suitcase::::{'cat-0': [50, 50, 150, 150], 'black suitcase-0': [160, 50, 240, 150]}
+a cat and a yellow car::::{'cat-0': [10, 10, 100, 100], 'yellow car-0': [50, 50, 200, 200]}
+a frog and a yellow backpack::::{'frog-0': [20, 20, 120, 200], 'yellow backpack-0': [140, 50, 220, 150]}
+a bird and a black suitcase::::{'bird-0': [50, 50, 150, 150], 'black suitcase-0': [160, 160, 240, 240]}
+a cat with a crown::::{'cat': (100, 100, 156, 156),'crown': (120, 80, 160, 120)}
+a rabbit and a yellow car::::{'rabbit': [30, 30, 150, 120], 'yellow car': [160, 30, 240, 150]}
+a cat with a bow::::{'cat': (100, 100, 156, 156),'bow': (130, 110, 150, 130)}
+a bird and a white clock::::{'bird-0': [20, 20, 100, 150], 'white clock-0': [120, 50, 200, 160]}
+a cat and a green clock::::{'cat-0': [50, 50, 150, 200], 'green clock-0': [170, 50, 230, 150]}
+a bear and a purple bowl::::{'bear': [50, 50, 200, 200], 'purple bowl': [150, 100, 250, 200]}
+a monkey with a glasses::::{'monkey': (100, 100, 156, 156),'glasses': (120, 120, 160, 160)}
+a frog with a glasses::::{'frog': (100, 100, 156, 156),'glasses': (120, 120, 160, 160)}
+a elephant and a green bowl::::{'elephant-0': [50, 50, 200, 200], 'green bowl-0': [100, 100, 150, 150]}
+a bird with a glasses::::{'bird': (100, 100, 156, 156),'glasses': (120, 120, 160, 160)}
+a dog and a blue balloon::::{'dog': [20, 20, 100, 180], 'blue balloon': [140, 50, 200, 110]}
+a mouse and a brown backpack::::{'mouse-0': [50, 50, 75, 100], 'brown backpack-0': [80, 80, 190, 170]}

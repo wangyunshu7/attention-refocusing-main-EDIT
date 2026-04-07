@@ -1,0 +1,67 @@
+a elephant and a rabbit::::{'elephant-0': [20, 20, 120, 200], 'rabbit-0': [136, 40, 196, 120]}
+a dog and a frog::::{'dog-0': [25, 25, 135, 200], 'frog-0': [150, 50, 225, 150]}
+a bird and a mouse::::{'bird-0': [50, 50, 150, 150], 'mouse-0': [180, 50, 230, 100]}
+a monkey and a frog::::{'monkey-0': [50, 50, 150, 200], 'frog-0': [170, 50, 250, 200]}
+a horse and a monkey::::{'horse': [20, 20, 120, 200], 'monkey': [136, 40, 236, 220]}
+a bird and a turtle::::{'bird-0': [50, 50, 150, 150], 'turtle-0': [180, 50, 230, 150]}
+a bird and a lion::::{'bird-0': [30, 30, 100, 150], 'lion-0': [120, 50, 220, 200]}
+a lion and a monkey::::{'lion': [50, 70, 180, 200], 'monkey': [90, 80, 220, 160]}
+a horse and a turtle::::{'horse-0': [20, 20, 120, 180], 'turtle-0': [140, 60, 200, 160]}
+a bird and a monkey::::{'bird-0': [20, 20, 80, 120], 'monkey-0': [150, 50, 220, 180]}
+a bear and a frog::::{'bear': [20, 20, 100, 150], 'frog': [130, 50, 200, 120]}
+a bear and a turtle::::{'bear': (100, 100, 156, 156),'turtle': (200, 200, 256, 256)}
+a dog and a elephant::::{'dog-0': [50, 50, 150, 150], 'elephant-0': [100, 100, 200, 200]}
+a dog and a horse::::{'dog': [20, 20, 100, 150], 'horse': [120, 20, 220, 150]}
+a turtle and a mouse::::{'turtle': (100, 100, 156, 156),'mouse': (200, 200, 236, 236)}
+a cat and a turtle::::{'cat-0': [25, 30, 103, 208], 'turtle-0': [120, 140, 241, 250]}
+a dog and a mouse::::{'dog': [30, 30, 120, 200], 'mouse': [140, 50, 200, 120]}
+a cat and a elephant::::{'cat-0': [50, 50, 150, 150], 'elephant-0': [100, 100, 200, 200]}
+a cat and a bird::::{'cat-0': [50, 50, 150, 150], 'bird-0': [180, 50, 230, 100]}
+a dog and a monkey::::{'dog-0': [25, 30, 103, 208], 'monkey-0': [120, 140, 241, 250]}
+a lion and a mouse::::{'lion-0': [50, 50, 150, 200], 'mouse-0': [170, 70, 220, 120]}
+a bear and a lion::::{'bear': [20, 20, 100, 150], 'lion': [120, 50, 220, 180]}
+a bird and a elephant::::{'bird-0': [50, 50, 150, 150], 'elephant-0': [100, 100, 200, 200]}
+a lion and a turtle::::{'lion-0': [50, 50, 150, 150], 'turtle-0': [180, 180, 230, 230]}
+a dog and a bird::::{'dog-0': [72, 80, 168, 176], 'bird-0': [200, 80, 232, 112]}
+a bird and a rabbit::::{'bird-0': [50, 50, 150, 150], 'rabbit-0': [170, 50, 250, 150]}
+a elephant and a turtle::::{'elephant-0': [50, 50, 180, 200], 'turtle-0': [100, 100, 150, 150]}
+a lion and a elephant::::{'lion-0': [30, 50, 150, 200], 'elephant-0': [170, 70, 246, 230]}
+a cat and a rabbit::::{'cat-0': [30, 30, 120, 200], 'rabbit-0': [140, 40, 220, 180]}
+a dog and a bear::::{'dog': [20, 20, 100, 150], 'bear': [120, 50, 200, 180]}
+a dog and a rabbit::::{'dog-0': [50, 50, 150, 200], 'rabbit-0': [170, 50, 250, 200]}
+a cat and a bear::::{'cat-0': [10, 10, 80, 80], 'bear-0': [100, 10, 220, 220]}
+a bird and a horse::::{'bird': [20, 20, 100, 100], 'horse': [130, 130, 230, 230]}
+a rabbit and a mouse::::{'rabbit': (100, 100, 156, 156),'mouse': (200, 200, 236, 236)}
+a bird and a bear::::{'bird': [30, 30, 100, 100], 'bear': [150, 150, 220, 220]}
+a bear and a monkey::::{'bear': (100, 100, 156, 156),'monkey': (200, 200, 256, 256)}
+a horse and a frog::::{'horse': [50, 50, 200, 150], 'frog': [100, 50, 150, 100]}
+a cat and a horse::::{'cat': (100, 100, 156, 156),'horse': (200, 200, 300, 300)}
+a frog and a rabbit::::{'frog': [50, 50, 80, 100], 'rabbit': [120, 50, 150, 100]}
+a bear and a mouse::::{'bear': (100, 100, 156, 156),'mouse': (200, 200, 236, 236)}
+a monkey and a rabbit::::{'monkey-0': [30, 30, 120, 180], 'rabbit-0': [140, 40, 220, 180]}
+a cat and a dog::::{'cat-0': [20, 20, 100, 150], 'dog-0': [120, 50, 200, 180]}
+a lion and a frog::::{'lion-0': [20, 20, 120, 200], 'frog-0': [136, 60, 240, 180]}
+a frog and a mouse::::{'frog-0': [30, 40, 130, 180], 'mouse-0': [150, 60, 230, 140]}
+a dog and a lion::::{'dog-0': [0, 0, 128, 256], 'lion-0': [128, 0, 256, 256]}
+a lion and a rabbit::::{'lion-0': [20, 20, 100, 180], 'rabbit-0': [130, 50, 200, 120]}
+a elephant and a frog::::{'elephant': [20, 20, 120, 200], 'frog': [140, 40, 200, 150]}
+a frog and a turtle::::{'frog-0': [20, 20, 100, 150], 'turtle-0': [120, 50, 200, 180]}
+a cat and a lion::::{'cat-0': [25, 30, 103, 208], 'lion-0': [150, 30, 228, 208]}
+a horse and a rabbit::::{'horse': [50, 50, 200, 200], 'rabbit': [100, 150, 150, 250]}
+a cat and a monkey::::{'cat-0': [50, 50, 150, 150], 'monkey-0': [170, 50, 250, 150]}
+a bear and a rabbit::::{'bear-0': [30, 30, 120, 200], 'rabbit-0': [130, 40, 220, 190]}
+a turtle and a rabbit::::{'turtle-0': [30, 30, 120, 150], 'rabbit-0': [130, 80, 220, 180]}
+a elephant and a monkey::::{'elephant-0': [50, 50, 200, 200], 'monkey-0': [100, 100, 150, 150]}
+a bird and a frog::::{'bird-0': [20, 20, 80, 100], 'frog-0': [100, 120, 160, 200]}
+a bird and a frog::::{'bird': [56, 104, 120, 188], 'frog': [130, 40, 215, 130]}
+a lion and a horse::::{'lion-0': [50, 50, 150, 150], 'horse-0': [170, 50, 250, 150]}
+a bear and a horse::::{'bear': [40, 50, 160, 170], 'horse': [200, 50, 220, 170]}
+a bear and a elephant::::{'bear': [20, 20, 100, 150], 'elephant': [120, 80, 220, 200]}
+a horse and a mouse::::{'horse': [20, 20, 120, 200], 'mouse': [140, 30, 200, 100]}
+a dog and a turtle::::{'dog-0': [20, 20, 100, 170], 'turtle-0': [120, 50, 200, 180]}
+a monkey and a mouse::::{'monkey-0': [30, 30, 120, 200], 'mouse-0': [140, 40, 220, 180]}
+a cat and a frog::::{'cat': [56, 67, 134, 148], 'frog': [102, 120, 183, 225]}
+a monkey and a turtle::::{'monkey-0': [20, 20, 100, 180], 'turtle-0': [130, 50, 220, 160]}
+a horse and a elephant::::{'horse-0': [20, 20, 100, 180], 'elephant-0': [130, 50, 250, 220]}
+a cat and a mouse::::{'cat': [30, 30, 150, 200], 'mouse': [170, 50, 220, 100]}
+a elephant and a mouse::::{'elephant': [128, 128, 255, 255], 'mouse': [128, 0, 255, 128]}
